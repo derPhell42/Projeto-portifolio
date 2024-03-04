@@ -1,2 +1,2 @@
 ﻿# Projeto-portifolio
-Compondo projeto da Trila ALURA
+Compondo projeto da Trilha ALURA
